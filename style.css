@@ -1,0 +1,109 @@
+
+
+  .container {
+    width: 96%;
+    height: 90%;
+    position: relative;
+  }
+  
+  img{
+    height: 190px;
+    width: 190px;
+    margin-top:9%;
+    border-radius: 80%;
+    margin-bottom: 6%;
+  }
+
+  .box{
+    height:20%;
+    width:34%;
+    margin-left: -74%;
+    background-color: #FE9703;
+    border-radius: 50px;
+    margin-top: -8%; 
+    position: absoute;
+    
+  }
+  .overlay{
+    
+     padding-top: 5%; 
+    position:relative;
+    background-color:black;
+    height: 15%;
+    width: 30%;
+    margin-top: -1400px;
+    border-radius: 100px;
+    
+    z-index: 9;
+  }
+  .rbox{
+    margin-left: 33.4%;
+    margin-top: 1%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    background-color: #FE9703;
+    padding: 2%;
+    padding-left: 1%;
+    margin-right: 8%;
+    border-top-right-radius:150px;
+    border-bottom-right-radius: 150px;
+  }
+  .hd1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;
+    padding-left: 5%;
+    margin-top: 0%;
+    padding-bottom: 0%;
+    text-align: left;
+  }
+  .hd{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 150%;
+    padding-left: 5%;
+    margin-top: -3.5%;
+    margin-bottom: 5%;
+    margin-top: 9%;
+    font-weight: bolder;
+    text-align: left;
+  }
+  .t{
+    text-align: left;
+    padding-left: 5%;
+    font-size:85%;
+    margin-top: -1%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.hdc{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 150%;
+    padding-left: 5%;
+    padding-top: -5px;
+    font-weight: bolder;
+    margin-bottom: 6%;
+    text-align: left;
+
+  }
+
+  
+  .desc{
+    margin-left: 36%;
+    margin-right: 9%;
+    font-size: 80%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  td {
+    padding-bottom:5%;
+  }
+
+  div.page {
+    background: white;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 0.5cm;
+    box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+    }
+  
+  div.page[size="A4"] {  
+    width: 21cm;
+    height: 29.7cm;
+  } 
